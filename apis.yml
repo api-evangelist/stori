@@ -48,7 +48,7 @@ position: Producing
 access: 3rd-Party
 image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/stori.png
 tags:
-  - Financial-Services
+  - Financial Services
   - Neobank
   - Digital Bank
   - Consumer Finance
@@ -79,6 +79,7 @@ tags_raw:
   - Fintech
   - Latin America
   - Mexico
+  - Financial-Services
 url: https://raw.githubusercontent.com/api-evangelist/stori/refs/heads/main/apis.yml
 created: '2026-05-24'
 modified: '2026-05-24'
