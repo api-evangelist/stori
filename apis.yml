@@ -82,10 +82,12 @@ tags_raw:
   - Financial-Services
 url: https://raw.githubusercontent.com/api-evangelist/stori/refs/heads/main/apis.yml
 created: '2026-05-24'
-modified: '2026-05-24'
+modified: '2026-10-06'
 specificationVersion: '0.23'
 apis: []
 common:
+  - url: https://www.storicard.com/blog
+    type: Blog
   - type: DomainSecurity
     url: security/stori-domain-security.yml
   - type: Website
